@@ -21,9 +21,9 @@
     <img src="https://img.shields.io/badge/Written%20In-Shell-blue?style=flat-square">
 </p>
 
-### [+] Description
-Bahan bahan install di termux 
-@Kz.tutorial
+### [+] Preview
+![Screenshot_20220408-145325](https://user-images.githubusercontent.com/99101425/162380873-307c0218-6562-484d-ad54-171c457a0c6f.png)
+
 ### [+] Installation
 
  - `apt update`
