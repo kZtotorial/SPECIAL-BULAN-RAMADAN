@@ -41,7 +41,7 @@ For termux, use additional command `termux-setup-storage`
 
 ##### copy Run in your terminal
 ```
-git clone 
+https://github.com/kZtotorial/SPECIAL-BULAN-RAMADAN
 ```
  - `Sulanjutnya tonton di vidio`
 
