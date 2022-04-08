@@ -22,7 +22,7 @@
 </p>
 
 ### [+] Preview
-![Screenshot_20220408-145325](https://user-images.githubusercontent.com/99101425/162380873-307c0218-6562-484d-ad54-171c457a0c6f.png)
+![Screenshot_20220408-145325~2](https://user-images.githubusercontent.com/99101425/162382333-f1e12198-03d4-45db-bf62-e0688dab7beb.jpg)
 
 ### [+] Installation
 
